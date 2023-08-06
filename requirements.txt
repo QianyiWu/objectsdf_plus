@@ -1,0 +1,15 @@
+torch==2.0.0
+torchvision
+torchaudio
+torch
+trimesh
+pyhocon==0.3.59
+tqdm
+scikit-image
+matplotlib
+opencv-python
+tensorboard
+scipy
+numpy
+plotly
+ninja
